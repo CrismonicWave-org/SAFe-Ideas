@@ -1,21 +1,11 @@
-# Security Policy
+# 1. Security Policy
 
-## Supported Versions
+## Contents
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+1. [1. Security Policy](#1-security-policy)
+   1. [Contents](#contents)
+   2. [1.1. Reporting a Vulnerability](#11-reporting-a-vulnerability)
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+## 1.1. Reporting a Vulnerability
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If you find vulnerabilities in this repo, please contact kencrismon@crismonicwave.com
